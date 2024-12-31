@@ -1,66 +1,68 @@
-<div align="center">
-  <h1>Hi, I'm Aleema Khan 👋</h1>
-  <p>Full-Stack Developer | AI Enthusiast | Passionate about Web & AI Development</p>
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&rid=giphy.gif&ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px;">
+  </a>&nbsp
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khanaleema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khanaleema" alt="GitHub Profile Trophy" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aleema Khan</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Passionate about Web & AI Development</h3>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught-Programmer;Node%20Js%20Developer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22">
   </a>
-</div>
+</p>
 
-<section align="center">
-  <h2>Current Focus:</h2>
-  <p>Building [SHOP.CO](https://hackathone-figma-24-hour.vercel.app/) E-Commerce Website | Exploring cutting-edge AI & Web Dev Tech</p>
-</section>
+<br/>
 
-<section align="center">
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/aleemakhan17" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/i._.aleemakhan" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-  </p>
-</section>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<section>
-  <h3>Languages & Tools:</h3>
-  <p>
-    <a href="https://www.javascript.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
-  </p>
-</section>
+<br/>
 
-<section align="center">
-  <h3>My Stats:</h3>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaleema&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanaleema&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanaleema&" alt="Streak Stats" /></p>
-</section>
+## 🙋‍♀️ About Me
 
-<section align="center">
-  <h3>Fun Fact:</h3>
-  <p>I can write code faster than I can make a cup of coffee – and that’s saying something!</p>
-</section>
+- 🎓 UnderGraduation in BS-Commerce,
+- 🌱 I’m currently learning **Web 3.0 & Metaverse Technologies**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 How to reach me **your-email@example.com**
+- ⚡ Fun fact **I love coding and I'm a quick learner.**
 
-<section align="center">
-  <h3>Reach Out:</h3>
-  <p>Email: <a href="mailto:khanaleema770@gmail.com">khanaleema770@gmail.com</a></p>
-</section>
+## 🚀 Technologies I know
+
+- HTML, CSS, Javascript, EcmaScript, Typescript
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs, NextJs)
+- Styling (Tailwindcss, Material-UI, Chakra-UI, Ant Design, Materialize, Bootstrap, Scss, Styled components)
+- Databases (Firebase Firestore, MongoDB)
+- Project Management (git, Github)
+- Design (Figma, Canva)
+- Deployment (Firebase, Heroku, Netlify, Vercel)
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleema Khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+## 📊 My Github Stats
+
+<br/>
+  <a href="https://github.com/yourusername"><img alt="Aleema Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yourusername"><img alt="Aleema Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<br/>
+
+## Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://web.facebook.com/yourfacebook"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+</p>
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/yourusername.svg)](https://user-badge.committers.top/pakistan/yourusername)
+
+## ❤ Views and Followers
+<a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+
+<img align='center' height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>
