@@ -4,7 +4,8 @@
   <p style="font-family: 'Arial', sans-serif; color: #7f8c8d; font-size: 20px;">Full-Stack Developer | AI Enthusiast | Passionate about Web & AI Development</p>
   
   <div>
-    <img src="https://media.giphy.com/media/l0MYAhiU4jToae3oy/giphy.gif" alt="developer gif" width="200" height="200">
+    <!-- Replace the GIF with a new image here -->
+    <img src="https://your-new-image-url.com" alt="developer gif" width="200" height="200">
   </div>
   
   <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Skills & Expertise</h3>
@@ -27,23 +28,25 @@
   <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Technologies I Love</h3>
   
   <div style="display: flex; justify-content: center; margin: 20px 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/React-icon.svg" alt="React" width="60" height="60" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Node.js_logo_2015.svg" alt="Node.js" width="60" height="60" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MongoDB_Logo.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;">
+    <!-- Replace with new technology icons -->
+    <img src="https://your-new-icon-url.com" alt="JavaScript" width="60" height="60" style="margin: 10px;">
+    <img src="https://your-new-icon-url.com" alt="React" width="60" height="60" style="margin: 10px;">
+    <img src="https://your-new-icon-url.com" alt="Node.js" width="60" height="60" style="margin: 10px;">
+    <img src="https://your-new-icon-url.com" alt="MongoDB" width="60" height="60" style="margin: 10px;">
   </div>
   
   <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Let's Connect</h3>
   
   <div>
+    <!-- Replace the social media icons with new ones if needed -->
     <a href="https://www.linkedin.com/in/yourlinkedin" style="margin: 10px;">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+      <img src="https://your-new-linkedin-icon-url.com" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/yourtwitter" style="margin: 10px;">
-      <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
+      <img src="https://your-new-twitter-icon-url.com" alt="Twitter" />
     </a>
     <a href="https://github.com/yourusername" style="margin: 10px;">
-      <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
+      <img src="https://your-new-github-icon-url.com" alt="GitHub" />
     </a>
   </div>
   
