@@ -1,68 +1,82 @@
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&rid=giphy.gif&ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px;">
-  </a>&nbsp
-</p>
+<!-- Profile Section -->
+<div align="center">
+  <h1 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 50px;">Hi, I'm <span style="color: #e74c3c;">Aleema Khan</span></h1>
+  <p style="font-family: 'Arial', sans-serif; color: #7f8c8d; font-size: 20px;">Full-Stack Developer | AI Enthusiast | Passionate about Web & AI Development</p>
+  
+  <div>
+    <img src="https://media.giphy.com/media/l0MYAhiU4jToae3oy/giphy.gif" alt="developer gif" width="200" height="200">
+  </div>
+  
+  <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Skills & Expertise</h3>
+  
+  <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <div style="background-color: #2980b9; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
+      <h4>Web Development</h4>
+      <p>HTML, CSS, JavaScript, React, Node.js, Express.js</p>
+    </div>
+    <div style="background-color: #27ae60; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
+      <h4>Mobile App Development</h4>
+      <p>Flutter, React Native</p>
+    </div>
+    <div style="background-color: #f39c12; color: white; padding: 20px; border-radius: 10px; margin: 10px;">
+      <h4>Database Management</h4>
+      <p>MongoDB, MySQL, Firebase</p>
+    </div>
+  </div>
+  
+  <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Technologies I Love</h3>
+  
+  <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/React-icon.svg" alt="React" width="60" height="60" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Node.js_logo_2015.svg" alt="Node.js" width="60" height="60" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MongoDB_Logo.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;">
+  </div>
+  
+  <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Let's Connect</h3>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/yourlinkedin" style="margin: 10px;">
+      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/yourtwitter" style="margin: 10px;">
+      <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" />
+    </a>
+    <a href="https://github.com/yourusername" style="margin: 10px;">
+      <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
+    </a>
+  </div>
+  
+  <div style="margin-top: 30px;">
+    <a href="mailto:your-email@example.com">
+      <button style="background-color: #e74c3c; color: white; font-size: 20px; padding: 15px 25px; border: none; border-radius: 5px; cursor: pointer;">Contact Me</button>
+    </a>
+  </div>
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aleema Khan</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Passionate about Web & AI Development</h3>
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught-Programmer;Node%20Js%20Developer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22">
-  </a>
-</p>
+<!-- Animated Background -->
+<style>
+  body {
+    background: linear-gradient(45deg, #f39c12, #2980b9);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    font-family: 'Arial', sans-serif;
+  }
 
-<br/>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-## 🙋‍♀️ About Me
-
-- 🎓 UnderGraduation in BS-Commerce,
-- 🌱 I’m currently learning **Web 3.0 & Metaverse Technologies**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **your-email@example.com**
-- ⚡ Fun fact **I love coding and I'm a quick learner.**
-
-## 🚀 Technologies I know
-
-- HTML, CSS, Javascript, EcmaScript, Typescript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs, NextJs)
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Ant Design, Materialize, Bootstrap, Scss, Styled components)
-- Databases (Firebase Firestore, MongoDB)
-- Project Management (git, Github)
-- Design (Figma, Canva)
-- Deployment (Firebase, Heroku, Netlify, Vercel)
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleema Khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-## 📊 My Github Stats
-
-<br/>
-  <a href="https://github.com/yourusername"><img alt="Aleema Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yourusername"><img alt="Aleema Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-
-## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://web.facebook.com/yourfacebook"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-</p>
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/yourusername.svg)](https://user-badge.committers.top/pakistan/yourusername)
-
-## ❤ Views and Followers
-<a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br/>
-
-<img align='center' height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>
+<!-- Animated Button -->
+<script>
+  const button = document.querySelector('button');
+  button.addEventListener('mouseover', function() {
+    button.style.transform = 'scale(1.1)';
+  });
+  button.addEventListener('mouseout', function() {
+    button.style.transform = 'scale(1)';
+  });
+</script>
